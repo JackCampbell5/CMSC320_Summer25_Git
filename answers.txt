@@ -5,3 +5,7 @@ Answer: To help keep track of project process, to publish a project, to work on 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Sports is a great location for data science to be applied to especially in football. You can keep track of many different stats for the player such as speed, running yards, passing yards, playing time. This would allow you to compare them against other players and see where they can improve for a future game.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging adds a commit and brings new changes to the front of the branch. Rebasing does not add a commit and adds everything to the start of your current branch and updates all commits in your current branch to match. 
